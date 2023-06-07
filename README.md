@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyanivas Bezawada
 - 👀 I’m interested in Programming, software development.
-- 🌱 I’m a Computer Graduate
+- 🌱 I’m a Computer Science Graduate
 - 📫 How to reach me: satyanivas921@gmail.com
 
 <!---
